@@ -1,4 +1,4 @@
-import org.junit.Assert;
+/*import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -25,4 +25,4 @@ public class Salesforce {
         Assert.assertEquals("Both strings are not equal", error_message_expected, error_message_actual);
 
     }
-}
+}*/

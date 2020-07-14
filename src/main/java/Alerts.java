@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Alerts {
     public static void main(String[] args) throws InterruptedException {
-        // declaration and instantiation of objects/variables
+        // declaration and instant iation of objects/variables
         System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver");
         WebDriver driver = new ChromeDriver();
 
